@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improvised-Engineering-2", "Improvised-Engineering-2\Improvised-Engineering-2.csproj", "{F8508D2C-8AE9-4F80-8673-16B127EE13E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8508D2C-8AE9-4F80-8673-16B127EE13E8}.Debug|x64.ActiveCfg = Debug|x64
+		{F8508D2C-8AE9-4F80-8673-16B127EE13E8}.Debug|x64.Build.0 = Debug|x64
+		{F8508D2C-8AE9-4F80-8673-16B127EE13E8}.Release|x64.ActiveCfg = Release|x64
+		{F8508D2C-8AE9-4F80-8673-16B127EE13E8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF4F688-6AD2-428D-905F-6B933D80703E}
+	EndGlobalSection
+EndGlobal
