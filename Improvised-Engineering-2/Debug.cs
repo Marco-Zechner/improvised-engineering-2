@@ -6,7 +6,7 @@ namespace Improvised_Engineering_2
 {
     static class Debug
     {
-        public static void Log(string sender = "Improvised Engineering 2", object message = null, bool informUser = false)
+        public static void Log(string sender = "", object message = null, bool informUser = false)
         {
             //if (!Config.improvisedConfig.useDebug) return;
 
